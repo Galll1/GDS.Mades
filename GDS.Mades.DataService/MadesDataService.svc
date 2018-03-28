@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="GDS.Mades.DataService.MadesDataService" CodeBehind="MadesDataService.svc.cs" %>
